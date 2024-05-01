@@ -164,7 +164,7 @@ libzmq-jni - ZeroMQ Java bindings (jzmq)
 libzmq3-dev - lightweight messaging kernel (development files)
 libzmq5 - lightweight messaging kernel (shared library)
 ```
-From the messages above, it could be inferred that the package ***libzmq3-dev*** provides development files for the ZeroMQ messaging library, which might be what you're looking for. It was installed running the following command:
+From the messages above, it could be inferred that the package ***libzmq3-dev*** provides development files for the ZeroMQ messaging library, which was what was needed. It was installed running the following command:
 ```
 sudo apt-get install libzmq3-dev
 ```
