@@ -9,7 +9,7 @@ Flightmare comes with several desirable features
 (iii). Can be intergrated with virtual-reality headset
 
 ## Prerequisites
-Requirements to be addd ...
+knowledge in Linux and C++
 
 
 ## User Stories
