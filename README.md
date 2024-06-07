@@ -307,41 +307,20 @@ ERROR: Could not build wheels for flightgym, which is required to install pyproj
 ```
 
 
-<!-- ##### Error #1 :
-Indicates that the ***flightgym*** package failed to build. The error occurred during the attempt to build a wheel (a Python package distribution format).
-
-```
-Building wheels for collected packages: flightgym
-  Building wheel for flightgym (setup.py) ... error
-  error: subprocess-exited-with-error
-```
-
-##### Error #2 :
-The error below indicates that the command "python setup.py bdist_wheel" did not run successfully and exited with a non-zero exit code.
-
-```
-× python setup.py bdist_wheel did not run successfully.
-│ exit code: 1
-╰─> [102 lines of output]
-```
-##### Error #3s :
-It attempted to clone the GoogleTest submodule repository but encountered an issue with the reference 'master'. This could indicate a problem with the submodule configuration or with the Git repository itself.
-
-```
-Cloning into 'googletest-src'...
-fatal: invalid reference: master
-``` -->
-
-
-ERROR: Could not build wheels for flightgym, which is required to install pyproject.toml-based projects
-
 ##### What was tried to resolve the issues:
-
+###### Troublshoot 1:
 Trying to do the installation through bypassing any potential issues related to cached files during the installation process. The command below disables caching, ensuring that the package is fetched directly from the source.
 ```
 pip install . --no-cache-dir
 ```
 However, the same error still remained. 
+
+###### Troublshoot 2:
+Ensuring that ***pip*** and ***setuptools*** are up to date by running the command below:
+
+
+
+
 ```
 ```
 
