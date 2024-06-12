@@ -29,3 +29,7 @@ This guide provides solutions to common issues you might encounter while setting
 (Put all your images in the images/ folder)
 
 For additional help, refer to the [Setup Guide](setup_instructions.md) or [API Documentation](usage_instructions.md).
+
+
+## Frequently Asked Questions:
+
