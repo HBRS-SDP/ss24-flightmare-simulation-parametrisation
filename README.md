@@ -5,7 +5,10 @@
 Flightmare Simulator is .......... a description to be added ....
 
 ## Prerequisites
-Requirements to be addd ...
+OS ---> Linux 20.04 or lower (irrespective of the os creating a conda environment is Highly recommanded)
+Other dependencies dependencies :-
+TensorFlow 1.15
+
 
 
 ## User Stories
