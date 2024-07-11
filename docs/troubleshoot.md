@@ -78,10 +78,33 @@ To resolve this issue:
 ## Issues with installing ROS:
 
 ### Catkin build fails building certain packages:
-**Symptom**:
+**Symptom**: Once finished with setting up and installing the `ROS1` it was tried to build the work space:
+```
+catkin build 
+```
+ However, build process encountered multiple issues across different packages within the workspace. Specifically, out of 42 packages, package `rotors_hil_interface` failed to build due to compilation errors related to undeclared `mavlink_status_t`, indicating problems with MAVLink headers or declarations. 
+
 **Possible Cause**:
-**Solution**:
+
+A brief listing of the issues encountered during the build process:
+
+- **Failed Package (`rotors_hil_interface`):**
+  - Error related to undeclared `mavlink_status_t`, likely due to missing or incompatible MAVLink headers.
+
+- **Abandoned Packages (4 packages):**
+  - Typically indicates build or dependency issues that prevent these packages from completing successfully.
+
+- **Warnings in Some Packages (4 packages):**
+  - Indicates non-critical issues during the build process, potentially related to compatibility or configuration mismatches.
+
+These issues collectively highlight challenges with package dependencies, header file declarations, or build configurations within the workspace environment. Resolving these may require adjusting dependencies, verifying header inclusions, or updating build configurations to ensure compatibility and successful compilation of all packages.
+
+
+**Solution**:  (yet to be figured out .. ) 
+
 **Image for reference**:
+
+![Example Error](images/catkin_build_error.jpeg) 
 
 ## Frequently Asked Questions (FAQ)
 
