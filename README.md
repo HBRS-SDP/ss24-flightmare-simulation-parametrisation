@@ -321,37 +321,3 @@ However, the same error still remained.
 
 ###### Troublshoot 2:
 Ensuring that ***pip*** and ***setuptools*** are up to date by running the command below:
-
-
-
-
-```
-```
-
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
