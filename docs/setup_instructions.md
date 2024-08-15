@@ -218,7 +218,7 @@ Python 3.10.12
 Then a conda environment could be created:
 
 ```
-conda create --name conda_env python=3.10
+conda create --name conda_env python=3.6
 ```
 The ***conda*** environment is then created and it can be activated or deactivated using the commands below:
 
@@ -256,10 +256,11 @@ source ~/.bashrc
 ```
 
 #### 3.3 Installing dependencies: 
+   Activate conda environmnent 
 
 - ***Tensorflow*** is installed as below:
 ```
-pip install tensorflow
+conda install -c conda-forge tensorflow=1.15
 ```
 It was successfully installed:
 ```
