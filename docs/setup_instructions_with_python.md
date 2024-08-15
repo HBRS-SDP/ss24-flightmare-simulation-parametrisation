@@ -1,5 +1,8 @@
 ## Installation
 We have followed the instructions provided on [Flightmare installation guide](https://flightmare.readthedocs.io/en/latest/getting_started/quick_start.html#quick-start):
+### Requirments
+cmake version 3.28.4
+
 
 ### Step 1: Installing Packages
 Flightmare relies on several essential system packages to function optimally. These packages include:
