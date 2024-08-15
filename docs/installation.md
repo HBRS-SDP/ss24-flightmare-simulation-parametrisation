@@ -11,5 +11,5 @@ We have followed the instructions provided on [Flightmare installation guide](ht
    - **Zeromq v4.3.2**
    - **tensorflow v1.15**
 
- A detailed instruction on install all the above mentioned packages are given here
+ A detailed instruction on install all the above mentioned packages are given here [installation with python ](docs/setup_installation_with_python.md)
 
