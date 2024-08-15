@@ -85,7 +85,8 @@ To resolve this issue:
 ```
 
 **Possible Cause**: 
-- The issue was caused by the setup.py file in flightrl folder due to missing of packages 
+- The issue was caused by the setup.py file in flightrl folder due to missing of packages.
+  
 **Solution**: 
 To resolve this issue:
 
