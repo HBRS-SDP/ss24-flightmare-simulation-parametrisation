@@ -8,7 +8,7 @@
      - Select UEFI mode as the boot option rather than legacy BIOS mode.
      - Save and exit BIOS settings.
        
-     **⚠️ 	:warning:WARNING :- BE CAREFULL WHILE CHANGING BOOT MODE FROM LEGACY TO UEFI IN CASE IF YOU HAVE TO DO IT. YOU MAY LOOSE ALL FILES IN YOUR SYSTEM**
+     **⚠️ WARNING :- BE CAREFULL WHILE CHANGING BOOT MODE FROM LEGACY TO UEFI IN CASE IF YOU HAVE TO DO IT. YOU MAY LOOSE ALL FILES IN YOUR SYSTEM**
 
 2. **Connect External SSD:**
    - Ensure the external SSD (installed in ICY BOX IB-200T-C3 enclosure via USB 3.2) is connected to your system.
