@@ -205,7 +205,27 @@ mkdir -p catkin_ws/src
 cd catkin_ws
 catkin config --init --mkdirs --extend /opt/ros/$ROS_DISTRO --merge-devel --cmake-args -DCMAKE_BUILD_TYPE=Release
 ```
-
+### Step 4: Installing Flightmare
+- Clone the repository
+  ```
+  cd ~/catkin_ws/src
+  git clone https://github.com/uzh-rpg/flightmare.git
+  ```
+- Clone dependencies
+  ```
+  vcs-import < flightmare/flightros/dependencies.yaml
+  ```
+- Building Worksapce
+  ```
+  catkin build
+  ```
+- Add sourcing of your catkin workspace and FLIGHTMARE_PATH environment variable to your .bashrc file:
+  ```
+  echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+  echo "export FLIGHTMARE_PATH=~/catkin_ws/src/flightmare" >> ~/.bashrc
+  source ~/.bashrc
+  ```
+  
 
 
 
