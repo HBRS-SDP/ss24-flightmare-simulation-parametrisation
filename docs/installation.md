@@ -3,7 +3,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
 
 ### Inatallation Flightmare with ROS 1:
 
-  ### Requirments
+ - ### Requirments
 
 
 ### Inatallation Flightmare with python:
