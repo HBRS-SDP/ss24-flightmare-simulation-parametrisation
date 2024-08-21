@@ -7,6 +7,7 @@
      - Navigate to the Boot or Startup tab.
      - Select UEFI mode as the boot option rather than legacy BIOS mode.
      - Save and exit BIOS settings.
+       
      **WARNING :- BE CAREFULL WHILE CHANGING BOOT MODE FROM LEGACY TO UEFI IN CASE IF YOU HAVE TO DO IT. YOU MAY LOOSE ALL FILES IN YOUR SYSTEM**
 
 2. **Connect External SSD:**
