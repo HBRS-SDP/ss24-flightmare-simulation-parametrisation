@@ -1,7 +1,7 @@
 ## Installation
 We have followed the instructions provided on [Flightmare installation guide](https://flightmare.readthedocs.io/en/latest/getting_started/quick_start.html#quick-start):
 
-### Step 1: Installing Packages
+### Step 1: Installing Prerequisite Packages
 Flightmare relies on several essential system packages to function optimally. These packages include:
 
 - **CMake**: Flightmare utilizes CMake as a build system generator. CMake simplifies the process of building Flightmare components by automating the generation of build files for various platforms and compilers.
@@ -28,7 +28,7 @@ cmake --version
 An the version was displayed as below:
 ```
 cmake --version 
-cmake version 3.22.1
+cmake version 3.16.3
 
 CMake suite maintained and supported by Kitware (kitware.com/cmake).
 ```
@@ -55,7 +55,7 @@ gcc --version
 ```
 An the version was displayed as below:
 ```
-gcc (Ubuntu 11.4.0-1ubuntu1~20.04) 11.4.0
+gcc (Ubuntu 9.4.0-1ubuntu1~20.04) 9.4.0
 Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
