@@ -8,7 +8,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
 
 ### Inatallation Flightmare with python:
 
-  ### Requirments
+ - ### Requirments
    - **cmake v3.28.4**
    - **gcc v9.40**
    - **openmpi v4.03**
