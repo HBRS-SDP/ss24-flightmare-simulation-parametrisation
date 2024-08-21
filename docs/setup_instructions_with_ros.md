@@ -157,3 +157,8 @@ libzmq3-dev is already the newest version (4.3.4-2).
 libzmq3-dev set to manually installed.
 0 upgraded, 0 newly installed, 0 to remove and 70 not upgraded.
 ```
+### Step 2: Installing ROS
+We have followed the instruction given on (ROS WIKI)[/http://wiki.ros.org/noetic/Installation/Ubuntu].
+
+
+
