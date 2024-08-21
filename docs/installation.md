@@ -11,7 +11,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
    - **Zeromq v4.3.2**
    - **profibus v3.20.3**
 
- A detailed instruction on install all the above mentioned packages are given [here.](/setup_instructions_with_ros.md).
+ A detailed instruction on install all the above mentioned packages are given [here.](docs/setup_instructions_with_ros.md).
 
 ### Inatallation Flightmare with python:
 
