@@ -177,7 +177,7 @@ curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo ap
 ```
 sudo apt update
 ```
-**Desktop-Full Install**:Everything in Desktop plus 2D/3D simulators and 2D/3D perception packages.
+- **Desktop-Full Install**:Everything in Desktop plus 2D/3D simulators and 2D/3D perception packages.
 ```
 sudo apt install ros-noetic-desktop-full
 ```
