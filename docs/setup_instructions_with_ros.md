@@ -198,7 +198,7 @@ Before creating a catkin workspace its advisable to install catkin tools
 sudo apt-get install python-pip
 sudo pip install catkin-tools
 ```
-** Catkin Workspace**
+**Catkin Workspace**
 ```
 cd
 mkdir -p catkin_ws/src
