@@ -181,6 +181,32 @@ sudo apt update
 ```
 sudo apt install ros-noetic-desktop-full
 ```
+- **Environment Setup**
+You must source this script in every bash terminal you use ROS in.
+```
+echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
+source ~/.bashrc
+```
+- **Installing Dependences**
+Install system and ROS dependencies.
+```
+sudo apt-get install libgoogle-glog-dev protobuf-compiler ros-$ROS_DISTRO-octomap-msgs ros-$ROS_DISTRO-octomap-ros ros-$ROS_DISTRO-joy python3-wcstool
+```
+### Step 3: Creating Catkin Workspace
+Before creating a catkin workspace its advisable to install catkin tools 
+```
+sudo apt-get install python-pip
+sudo pip install catkin-tools
+```
+** Catkin Workspace**
+```
+cd
+mkdir -p catkin_ws/src
+cd catkin_ws
+catkin config --init --mkdirs --extend /opt/ros/$ROS_DISTRO --merge-devel --cmake-args -DCMAKE_BUILD_TYPE=Release
+```
+
+
 
 
 
