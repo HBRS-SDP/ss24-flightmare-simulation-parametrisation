@@ -12,7 +12,7 @@ Flightmare comes with several desirable features
 knowledge in Ubuntu and ROS + Python
 We have followed the instructions provided on [Flightmare installation guide](https://flightmare.readthedocs.io/en/latest/getting_started/quick_start.html#quick-start):
 
-### Inatallation Flightmare with ROS 1:
+### Installation Flightmare with ROS 1:
 
  - ### Requirments
    - **cmake v3.28.4**
@@ -24,7 +24,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
 
  A detailed instruction on install all the above mentioned packages are given [here.](/docs/setup_instructions_with_ros.md).
 
-### Inatallation Flightmare with python:
+### Installation Flightmare with python:
 
  - ### Requirments
    - **cmake v3.28.4**
