@@ -76,7 +76,7 @@ In this section the step to run the python RL simulation using the `default unit
 - -----------------------------------------
 - -----------------------------------------
 
-#### Running the RL Example Test
+#### Running the ROS Example Test
 Once everting is installed sucuessfully and Catkin build is succesful.
 - **Adding Unity to Flightmare**
 Download the Flightmare Unity Binary [RPG_Flightmare.tar.xz](https://github.com/uzh-rpg/flightmare/releases/latest/download/RPG_Flightmare.tar.xz) for rendering from the Releases and extract it into the **/path/to/flightmare/flightrender**.
