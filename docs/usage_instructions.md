@@ -70,11 +70,6 @@ In this section the step to run the python RL simulation using the `default unit
 - **For detailed customization and troubleshooting:**
   - Check the `troubleshoot.md` file on the `docs/troubleshoot`branch.
 
-- -----------------------------------------
-- -----------------------------------------
-- -----------------------------------------
-- -----------------------------------------
-- -----------------------------------------
 
 ## Running the ROS Example Test
 Once everting is installed sucuessfully and Catkin build is succesful.
