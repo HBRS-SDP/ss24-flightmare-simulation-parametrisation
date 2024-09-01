@@ -86,7 +86,8 @@ roslaunch flightros rotors_gazebo.launch
 
 #### Running the RL Example Test on the `Forest Floor 3D model`
 
-At this stage the RL simulation is run in the customized environment built using the forest floor model as explained in the [Unity Project Creation](unity_project_creation.md) :
+At this stage the RL simulation is run in the customized environment built using the forest floor model as explained in [Unity Project Creation](unity_project_creation)
+:
 
 The steps to run the simulation are the same as the ones mentioned under the  [Running the Flightmare simulator on the SSD and running a simple RL example on a drone](#running-the-flightmare-simulator-on-the-ssd-and-running-a-simple-rl-example-on-a-drone) above, except for the part regarding the 4th step and the below instruction should be followed instead:
 

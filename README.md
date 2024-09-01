@@ -37,15 +37,18 @@ We have followed the instructions provided on [Flightmare installation guide](ht
  A detailed instruction on install all the above mentioned packages are given [here.](/docs/setup_instructions_with_python.md).
 
 
-## User Stories
-
-| User Story ID | Title                           | Priority | Estimate | As a | I want to | So that |
-| ------------- | ------------------------------- | -------- | -------- | ---- | --------- | ------- |
-| 1             | Ability to install Flightmare Simulator           | High | 1-2 weeks | User | easily install Flightmare Simulator | I can start using it for my simulations without hassle |
-| 2             | Configure Simulator to suit different needs           | High | 2 weeks | User | configure the simulator settings quickly | I can tailor the simulation environment to my needs |
-| 3             | Fixing bugs to improve product          | Medium | 2-3 weeks | Developer | contribute to the project | I can improve the simulator or fix bugs |
-| 4             | Research different Simulators/tools           | Low | 2 days | Researcher | access comprehensive documentation | I can understand how to use advanced features for my research |
-| 5             | Enhancing user expereince           | Med | 1-2 weeks | Administrator | troubleshoot common issues | I can ensure smooth operation of the simulator for users |
-
-
-
+# Table of Contents
+| Serial Number | Documentation                  | Link to the Docs                  |
+|---------------|--------------------------------|-----------------------------------|
+| 0             | Introduction                   | [Introduction](docs/installation.md)         |
+| 1             | Installation                   | [Installation Guide](docs/installation.md)         |
+| &emsp;&emsp;1.1           | &emsp;&emsp; Install Unity| [Unity Installation Guide](/docs/unity_installation.md)         |
+| &emsp;&emsp;1.2           | &emsp;&emsp; Install RPG flightmare   | [RPG Flightmare Installation Guide](/docs/rpg_flightmare_installation.md)                 |
+| 2             | Setup                    | [Setup Instructions](docs/unity_setup.md)            |
+| &emsp;&emsp;2.1           | &emsp;&emsp; Python Setup| [Setup with Python](/docs/setup_instructions_with_python.md)         |
+| &emsp;&emsp;2.2           | &emsp;&emsp; ROS Setup   | [Setup with ROS](/docs/setup_instructions_with_ros.md)                 |
+| &emsp;&emsp;2.3           | &emsp;&emsp; Unity Configuration | [Unity Configuration](docs/unity_configuration.md) |
+| 3             | Usage (Python & ROS)           | [Usage](docs/usage_instructions.md)                       |
+| 4             | Customization                  | [Customization](docs/customization.md)       |
+| 5             | FAQ                            | [FAQ](docs/faq.md)                          |
+| 6             | Troubleshoot                   | [Troubleshoot](docs/troubleshoot.md)        |
