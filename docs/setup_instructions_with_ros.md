@@ -219,7 +219,7 @@ catkin config --init --mkdirs --extend /opt/ros/$ROS_DISTRO --merge-devel --cmak
   ```
   catkin build
   ```
-  *If in case catkin build is fails ----> There is a higher chance of problem of with ROS installation try to completly remove ROS and install it again *
+  If in case catkin build is fails ----> There is a higher chance of problem of with ROS installation try to completly remove ROS and install it again
 - Add sourcing of your catkin workspace and FLIGHTMARE_PATH environment variable to your .bashrc file:
   ```
   echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
