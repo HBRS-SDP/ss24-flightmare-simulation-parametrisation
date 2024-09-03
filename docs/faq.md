@@ -92,3 +92,5 @@
 
   You can now boot from the SSD on a lab PC and follow the setup guide to run the simulator. Refer to the [Flightmare Installation and Setup Guide](/README.md) for further instructions to run the project.
 </details>
+
+### More issues can be found [here](https://github.com/uzh-rpg/flightmare/issues)
