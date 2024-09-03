@@ -4,7 +4,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
 ### Step 1: Installing Prerequisite Packages
 Flightmare relies on several essential system packages to function optimally. These packages include:
 
-- **CMake**: Flightmare utilizes CMake as a build system generator. CMake simplifies the process of building Flightmare components by automating the generation of build files for various platforms and compilers.
+####- **CMake**: Flightmare utilizes CMake as a build system generator. CMake simplifies the process of building Flightmare components by automating the generation of build files for various platforms and compilers.
 
 To install CMake, the following commands were run:
 
