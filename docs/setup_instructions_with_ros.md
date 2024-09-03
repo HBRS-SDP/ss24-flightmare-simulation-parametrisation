@@ -4,7 +4,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
 ### Step 1: Installing Prerequisite Packages
 Flightmare relies on several essential system packages to function optimally. These packages include:
 
-- #### **CMake**: Flightmare utilizes CMake as a build system generator. CMake simplifies the process of building Flightmare components by automating the generation of build files for various platforms and compilers.
+- **CMake**: Flightmare utilizes CMake as a build system generator. CMake simplifies the process of building Flightmare components by automating the generation of build files for various platforms and compilers.
 
 To install CMake, the following commands were run:
 
@@ -157,6 +157,10 @@ libzmq3-dev is already the newest version (4.3.4-2).
 libzmq3-dev set to manually installed.
 0 upgraded, 0 newly installed, 0 to remove and 70 not upgraded.
 ```
+- **octomap ros**
+  ```
+  sudo apt-get install ros-noetic-octomap
+  ```
 ### Step 2: Installing ROS
 We have followed the instruction given on (ROS WIKI)[/http://wiki.ros.org/noetic/Installation/Ubuntu].
 
