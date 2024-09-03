@@ -226,7 +226,7 @@ catkin config --init --mkdirs --extend /opt/ros/$ROS_DISTRO --merge-devel --cmak
   echo "export FLIGHTMARE_PATH=~/catkin_ws/src/flightmare" >> ~/.bashrc
   source ~/.bashrc
   ```
-### Step %: Adding Default unity to Flightmare
+### Step 5: Adding Default unity to Flightmare
 - **Adding Unity to Flightmare**
 Download the Flightmare Unity Binary [RPG_Flightmare.tar.xz](https://github.com/uzh-rpg/flightmare/releases/latest/download/RPG_Flightmare.tar.xz) for rendering from the Releases and extract it into the **/path/to/flightmare/flightrender**.
 
