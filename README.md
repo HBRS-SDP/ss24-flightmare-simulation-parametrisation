@@ -41,16 +41,16 @@ We have followed the instructions provided on [Flightmare installation guide](ht
 | Serial Number | Documentation                  | Link to the Docs                  |
 |---------------|--------------------------------|-----------------------------------|
 | 0             | Introduction                   | [Introduction](README.md)         |
-| 1             | Installation                   | [Installation Guide](docs/installation.md)         |
+| 1             | Installation                   | [Installation Guide](/docs/installation.md)         |
 | &emsp;&emsp;1.1           | &emsp;&emsp; Install Unity| [Unity Installation Guide](/docs/unity_installation.md)         |
 | &emsp;&emsp;1.2           | &emsp;&emsp; Install RPG flightmare   | [RPG Flightmare Installation Guide](/docs/installation.md)                 |
-| 2             | Setup                    | [Setup Instructions](docs/unity_project_creation.md)            |
+| 2             | Setup                    | [Setup Instructions](/docs/unity_project_creation.md)            |
 | &emsp;&emsp;2.1           | &emsp;&emsp; Python Setup| [Setup with Python](/docs/setup_instructions_with_python.md)         |
 | &emsp;&emsp;2.2           | &emsp;&emsp; ROS Setup   | [Setup with ROS](/docs/setup_instructions_with_ros.md)                 |
-| &emsp;&emsp;2.3           | &emsp;&emsp; Unity Configuration | [Unity Configuration](docs/unity_project_creation.md) |
-| 3             | Usage (Python & ROS)           | [Usage](docs/usage_instructions.md)                       |
-| 4             | Customization                  | [Customization](docs/unity_project_creation.md)       |
-| 5             | FAQ                            | [FAQ](docs/faq.md)                          |
+| &emsp;&emsp;2.3           | &emsp;&emsp; Unity Configuration | [Unity Configuration](/docs/unity_project_creation.md) |
+| 3             | Usage (Python & ROS)           | [Usage](/docs/usage_instructions.md)                       |
+| 4             | Customization                  | [Customization](/docs/unity_project_creation.md)       |
+| 5             | FAQ                            | [FAQ](/docs/faq.md)                          |
 | 6             | Troubleshoot                   | [Troubleshoot](docs/troubleshoot.md)        |
 
 
