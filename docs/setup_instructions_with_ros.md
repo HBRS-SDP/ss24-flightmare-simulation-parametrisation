@@ -197,12 +197,12 @@ Install system and ROS dependencies.
 sudo apt-get install libgoogle-glog-dev protobuf-compiler ros-$ROS_DISTRO-octomap-msgs ros-$ROS_DISTRO-octomap-ros ros-$ROS_DISTRO-joy python3-wcstool
 ```
 ### Step 3: Creating Catkin Workspace
-Before creating a catkin workspace its advisable to install catkin tools 
+ Before creating a catkin workspace its advisable to install catkin tools 
 ```
 sudo apt-get install python-pip
 sudo pip install catkin-tools
 ```
-**Catkin Workspace**
+- **Catkin Workspace**
 ```
 cd
 mkdir -p catkin_ws/src
