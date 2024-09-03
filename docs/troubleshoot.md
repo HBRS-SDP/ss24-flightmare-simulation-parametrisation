@@ -1,6 +1,6 @@
 # Troubleshooting Guide
 
-This guide provides solutions to common issues you might encounter while setting up and running the Flightmare simulator.
+This guide provides solutions to common issues you might encounter while setting up and running the Flightmare simulator. These are thesome of problem we faced while installing and we have provided a detailed guide on how to soilve it.
 
 ## Common Issues
 
