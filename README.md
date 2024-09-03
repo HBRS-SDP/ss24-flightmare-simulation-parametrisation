@@ -60,10 +60,10 @@ More common issues can be found [here](https://github.com/uzh-rpg/flightmare/iss
 <details>
   <summary><strong>1. How do I install the Flightmare simulator on a fresh Linux installation?</strong></summary>
 
-  To install the Flightmare simulator on a fresh Linux installation, refer to the [Setup Guide](/docs/installation.md).
+  To install the Flightmare simulator on a fresh Linux installation, refer to the [Setup Guide](/docs/installation.md)
 
 
-  For troubleshoot and possible solutions, refer to the [Troubleshooting](/docs/troubleshoot.md).
+  For troubleshoot and possible solutions, refer to the [Troubleshooting](/docs/troubleshoot.md)
 </details>
 
 <details>
