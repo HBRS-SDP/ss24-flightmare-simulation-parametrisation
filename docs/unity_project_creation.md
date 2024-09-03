@@ -1,7 +1,7 @@
 
 ### Building and Customizing a Standalone Unity Project for Flightmare
 
-Building the Flightmare Unity project into a standalone application is essential for enabling users to run and interact with quadrotor simulations independently on different platforms like Linux, Windows, and MacOS. This process ensures accessibility and usability without needing the Unity Editor, making it easier to distribute and use the simulation environment effectively.
+Building the Flightmare Unity project into a standalone application is essential for enabling users to run and interact with quadrotor simulations independently on different platforms like Linux, Windows, and MacOS. This process ensures accessibility and usability without needing the Unity Editor, making it easier to distribute and use the simulation environment effectively. This guide is used to create the [unity project](https://flightmare.readthedocs.io/en/latest/building_flightmare_binary/standalone.html)
 
 #### Installing Unity and Importing the Project
 
