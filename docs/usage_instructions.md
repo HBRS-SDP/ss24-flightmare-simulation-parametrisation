@@ -102,7 +102,7 @@ The steps to run the simulation are the same as the ones mentioned under the  [R
 
    ![RL_simulation_forest_floor](images/RL_forest_floor_example.jpeg) 
 
-   - And the the results of the simulation will be displayed as below: 
+   <- And the the results of the simulation will be displayed as below: >
 
 
    ![RL_results_forest_floor](images/RL_results_forestfloor.jpeg) 
