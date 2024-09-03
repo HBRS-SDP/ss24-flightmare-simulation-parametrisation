@@ -157,7 +157,7 @@ libzmq3-dev is already the newest version (4.3.4-2).
 libzmq3-dev set to manually installed.
 0 upgraded, 0 newly installed, 0 to remove and 70 not upgraded.
 ```
--**octomap ros**
+- **octomap ros**
   ```
   sudo apt-get install ros-noetic-octomap
   ```
