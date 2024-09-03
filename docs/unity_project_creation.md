@@ -64,6 +64,7 @@ The `.fbx format` is preferred for the `3D models` into `Unity and Flightmare` d
    - Locate the `Forest Floor model` in `.fbx` format.
    - In `Unity Editor`, import the `.fbx model` into the project.
    - Place the model file into an appropriate folder (e.g., `Assets/Models/ForestFloor.fbx`).
+   - While importing the model into unity you make encounter some warnings and erros IGNORRE it.
 
 2. **Extract and Add Textures:**
 
