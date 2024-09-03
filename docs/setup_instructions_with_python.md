@@ -280,3 +280,6 @@ Successfully installed scikit-build-0.17.6
 cd flightmare/flightlib
 pip install .
 ```
+### Step 4: Adding Default unity to Flightmare
+- **Adding Unity to Flightmare**
+Download the Flightmare Unity Binary [RPG_Flightmare.tar.xz](https://github.com/uzh-rpg/flightmare/releases/latest/download/RPG_Flightmare.tar.xz) for rendering from the Releases and extract it into the **/path/to/flightmare/flightrender**.
