@@ -95,11 +95,10 @@ To resolve this issue:
 2. packages=['rpg_baselines' 'rpg_baselines.ppo', 'rpg_baselines.common', 'rpg_baselines.envs'], 
 
 
-## Issues with installing ROS:
+<!-- ## Issues with installing ROS:
 
 ### Catkin build fails building certain packages:
 **Symptom**:
 **Possible Cause**:
 **Solution**:
-**Image for reference**:
-
+**Image for reference**: -->
