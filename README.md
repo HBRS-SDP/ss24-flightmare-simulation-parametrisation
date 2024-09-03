@@ -55,6 +55,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
 
 
 ## Frequently Asked Questions (FAQ)
+More common issues can be found [here](https://github.com/uzh-rpg/flightmare/issues)
 
 <details>
   <summary><strong>1. How do I install the Flightmare simulator on a fresh Linux installation?</strong></summary>
