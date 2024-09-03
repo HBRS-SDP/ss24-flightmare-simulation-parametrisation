@@ -4,9 +4,9 @@
 ## Introduction
 Flightmare Simulator is flexible modular quadrotor simulator.It contain two main components. A configurable rendering engine built on Unity and a flexible physics engine for dynamics simulation
 Flightmare comes with several desirable features
-(i). A large multi-modal sensor suite,It includes an interface to extract the 3D point-cloud of the scene
-(ii). An api which can stimulate 100s of drone
-(iii). Can be intergrated with virtual-reality headset
+-(i). A large multi-modal sensor suite,It includes an interface to extract the 3D point-cloud of the scene
+-(ii). An api which can stimulate 100s of drone
+-(iii). Can be intergrated with virtual-reality headset
 
 ## Prerequisites
 knowledge in Ubuntu and ROS + Python
