@@ -94,7 +94,7 @@ To resolve this issue:
 
 2. packages=['rpg_baselines' 'rpg_baselines.ppo', 'rpg_baselines.common', 'rpg_baselines.envs'], 
 
-### More issues can be found [here]()
+### More issues can be found [here](https://github.com/uzh-rpg/flightmare/issues)
 <!-- ## Issues with installing ROS:
 
 ### Catkin build fails building certain packages:
