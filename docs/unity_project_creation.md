@@ -68,7 +68,7 @@ The `.fbx format` is preferred for the `3D models` into `Unity and Flightmare` d
 
 2. **Extract and Add Textures:**
 
-      As textures did not automatically appear after importing the .fbx file into Unity in this case, it suggests that the textures were not embedded in the file or that Unity could not locate them. The textures have been manually added alongside the 3D model and the steps to do so can be found in  [Texture Extraction Steps](texture_extraction_steps).
+      As textures did not automatically appear after importing the .fbx file into Unity in this case, it suggests that the textures were not embedded in the file or that Unity could not locate them. The textures have been manually added alongside the 3D model and the steps to do so can be found in  [Texture Extraction Steps](/docs/texture_extraction_steps).
 
 
 3. **Create Prefab for the Model:**
