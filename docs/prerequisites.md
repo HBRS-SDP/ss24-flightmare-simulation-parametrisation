@@ -1,7 +1,7 @@
 ## Installation
 We have followed the instructions provided on [Flightmare installation guide](https://flightmare.readthedocs.io/en/latest/getting_started/quick_start.html#quick-start):
 
-### Inatallation Flightmare with ROS 1:
+### Installing Flightmare with ROS 1:
 
  - ### Requirments
    - **cmake v3.28.4**
@@ -13,7 +13,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
 
  A detailed instruction on install all the above mentioned packages are given [here.](/docs/setup_instructions_with_ros.md).
 
-### Inatallation Flightmare with python:
+### Installing Flightmare with python:
 
  - ### Requirments
    - **cmake v3.28.4**

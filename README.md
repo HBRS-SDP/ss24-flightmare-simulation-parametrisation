@@ -3,18 +3,17 @@
 # Table of Contents
 | Serial Number | Documentation                  | Link to the Docs                  |
 |---------------|--------------------------------|-----------------------------------|
-| 0             | Introduction                   | [Introduction](README.md)         |
-| 1             | Installation                   | [Installation Guide](/docs/installation.md)         |
-| &emsp;&emsp;1.1           | &emsp;&emsp; Install Unity| [Unity Installation Guide](/docs/unity_installation.md)         |
-| &emsp;&emsp;1.2           | &emsp;&emsp; Install RPG flightmare   | [RPG Flightmare Installation Guide](/docs/installation.md)                 |
-| 2             | Setup                    | [Setup Instructions](/docs/unity_project_creation.md)            |
+| 0             | Introduction                   | [Introduction](https://github.com/HBRS-SDP/ss24-flightmare-simulation-parametrisation/blob/main/README.md#introduction)         |
+| 1             | Installation                   | [Installation Guide](https://github.com/HBRS-SDP/ss24-flightmare-simulation-parametrisation/blob/main/README.md#prerequisites)       |
+| &emsp;&emsp;1.1           | &emsp;&emsp; Install Unity| [Unity Installation Guide](https://github.com/HBRS-SDP/ss24-flightmare-simulation-parametrisation/blob/main/docs/unity_project_creation.md#prerequisites)         |
+| &emsp;&emsp;1.2           | &emsp;&emsp; Prerequisites for RPG flightmare   | [RPG Flightmare Installation Guide](/docs/prerequisites.md)                 |
+| 2             | Setup                    |            |
 | &emsp;&emsp;2.1           | &emsp;&emsp; Python Setup| [Setup with Python](/docs/setup_instructions_with_python.md)         |
 | &emsp;&emsp;2.2           | &emsp;&emsp; ROS Setup   | [Setup with ROS](/docs/setup_instructions_with_ros.md)                 |
-| &emsp;&emsp;2.3           | &emsp;&emsp; Unity Configuration | [Unity Configuration](/docs/unity_project_creation.md) |
+| &emsp;&emsp;2.3           | &emsp;&emsp; Unity Configuration | [Unity Configuration and Customization](https://github.com/HBRS-SDP/ss24-flightmare-simulation-parametrisation/blob/main/docs/unity_project_creation.md#steps) |
 | 3             | Usage (Python & ROS)           | [Usage](/docs/usage_instructions.md)                       |
-| 4             | Customization                  | [Customization](/docs/unity_project_creation.md)       |
-| 5             | FAQ                            | [FAQ](/docs/faq.md)                          |
-| 6             | Troubleshoot                   | [Troubleshoot](docs/troubleshoot.md)        |
+| 4             | FAQ                            | [FAQ](/docs/faq.md)                          |
+| 5             | Troubleshoot                   | [Troubleshoot](docs/troubleshoot.md)        |
 
 
 ## Introduction
@@ -24,7 +23,7 @@ Flightmare comes with several desirable features
 - An api which can stimulate 100s of drone
 - Can be intergrated with virtual-reality headset
 
-## Prerequisites
+## Prerequisites for Installation
 knowledge in Ubuntu and ROS + Python
 We have followed the instructions provided on [Flightmare installation guide](https://flightmare.readthedocs.io/en/latest/getting_started/quick_start.html#quick-start):
 
