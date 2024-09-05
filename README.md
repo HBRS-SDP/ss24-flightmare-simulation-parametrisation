@@ -36,7 +36,7 @@ We have followed the instructions provided on [Flightmare installation guide](ht
    - **opencv v4.5.5**
    - **Zeromq v4.3.2**
    - **profibus v3.20.3**
-   - **octomap ros** sometimes it is required 
+   - **octomap ros** 
 
  A detailed instruction on install all the above mentioned packages are given [here](/docs/setup_instructions_with_ros.md).
 
