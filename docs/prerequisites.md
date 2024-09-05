@@ -1,4 +1,4 @@
-## Installation
+## Prerequisities
 We have followed the instructions provided on [Flightmare installation guide](https://flightmare.readthedocs.io/en/latest/getting_started/quick_start.html#quick-start):
 
 ### Installing Flightmare with ROS 1:
