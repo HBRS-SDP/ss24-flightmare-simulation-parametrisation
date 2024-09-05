@@ -4,7 +4,7 @@
 | Serial Number | Documentation                  | Link to the Docs                  |
 |---------------|--------------------------------|-----------------------------------|
 | 0             | Introduction                   | [Introduction](https://github.com/HBRS-SDP/ss24-flightmare-simulation-parametrisation/blob/main/README.md#introduction)         |
-| 1             | Installation                   | [Installation Guide](https://github.com/HBRS-SDP/ss24-flightmare-simulation-parametrisation/blob/main/README.md#prerequisites)       |
+| 1             | Installation                   |       |
 | &emsp;&emsp;1.1           | &emsp;&emsp; Install Unity| [Unity Installation Guide](https://github.com/HBRS-SDP/ss24-flightmare-simulation-parametrisation/blob/main/docs/unity_project_creation.md#prerequisites)         |
 | &emsp;&emsp;1.2           | &emsp;&emsp; Prerequisites for RPG flightmare   | [RPG Flightmare Installation Guide](/docs/prerequisites.md)                 |
 | 2             | Setup                    |            |
