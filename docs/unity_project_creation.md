@@ -1,7 +1,7 @@
 
 ### Building and Customizing a Standalone Unity Project for Flightmare
 
-Building the Flightmare Unity project into a standalone application is essential for enabling users to run and interact with quadrotor simulations independently on different platforms like Linux, Windows, and MacOS. This process ensures accessibility and usability without needing the Unity Editor, making it easier to distribute and use the simulation environment effectively. This guide is used to create the [unity project](https://flightmare.readthedocs.io/en/latest/building_flightmare_binary/standalone.html)
+Building the Flightmare Unity project into a standalone application is essential for enabling users to run and interact with quadrotor simulations independently on different platforms like Linux, Windows, and MacOS. This process ensures accessibility and usability without needing the Unity Editor, making it easier to distribute and use the simulation environment effectively.
 
 #### Installing Unity and Importing the Project
 
@@ -35,7 +35,11 @@ Building the Flightmare Unity project into a standalone application is essential
   ```bash
   git clone git@github.com:uzh-rpg/rpg_flightmare_unity.git
   ```
-
+- -----------------------------------------
+- -----------------------------------------
+- -----------------------------------------
+- -----------------------------------------
+- -----------------------------------------
 
 ### Setting Up Unity Project for Linux Standalone Build
 
@@ -64,12 +68,10 @@ The `.fbx format` is preferred for the `3D models` into `Unity and Flightmare` d
    - Locate the `Forest Floor model` in `.fbx` format.
    - In `Unity Editor`, import the `.fbx model` into the project.
    - Place the model file into an appropriate folder (e.g., `Assets/Models/ForestFloor.fbx`).
-   - While importing the model into unity you make encounter some warnings and erros IGNORRE it.
 
 2. **Extract and Add Textures:**
-
-      As textures did not automatically appear after importing the .fbx file into Unity in this case, it suggests that the textures were not embedded in the file or that Unity could not locate them. The textures have been manually added alongside the 3D model and the steps to do so can be found in  [Texture Extraction Steps](/docs/texture_extraction_steps.md).
-
+   - Extract textures associated with the Forest Floor model separately.
+   - Import the textures into Unity and place them in a folder alongside the model (e.g., `Assets/Textures/ForestFloorTextures/`).
 
 3. **Create Prefab for the Model:**
    - Select the imported Forest Floor model in the Project window.
@@ -106,3 +108,10 @@ The `.fbx format` is preferred for the `3D models` into `Unity and Flightmare` d
 The forest floor model imported to the project will look like below, and the area marked with a red circle on the left image is where the camera is located, and the right is the camera view:
 
   ![forest_floor](images/forest_floor.jpeg).
+
+
+- ------------------------
+- ------------------------
+- ------------------------
+- ------------------------
+- ------------------------
